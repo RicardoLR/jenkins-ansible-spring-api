@@ -1,0 +1,9 @@
+com/api/repository/PartyRepository.class
+com/api/model/Level.class
+com/api/model/Party.class
+com/api/controller/PartyController.class
+com/api/App.class
+com/api/model/Skill.class
+com/api/repository/PersonRepository.class
+com/api/model/Person.class
+com/api/controller/PersonController.class

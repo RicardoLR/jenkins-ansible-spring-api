@@ -1,0 +1,9 @@
+/home/trafik/Documentos/aprendiendo_jenkings/ejemplo-api-spring/src/main/java/com/api/repository/PersonRepository.java
+/home/trafik/Documentos/aprendiendo_jenkings/ejemplo-api-spring/src/main/java/com/api/model/Level.java
+/home/trafik/Documentos/aprendiendo_jenkings/ejemplo-api-spring/src/main/java/com/api/controller/PersonController.java
+/home/trafik/Documentos/aprendiendo_jenkings/ejemplo-api-spring/src/main/java/com/api/App.java
+/home/trafik/Documentos/aprendiendo_jenkings/ejemplo-api-spring/src/main/java/com/api/controller/PartyController.java
+/home/trafik/Documentos/aprendiendo_jenkings/ejemplo-api-spring/src/main/java/com/api/model/Person.java
+/home/trafik/Documentos/aprendiendo_jenkings/ejemplo-api-spring/src/main/java/com/api/repository/PartyRepository.java
+/home/trafik/Documentos/aprendiendo_jenkings/ejemplo-api-spring/src/main/java/com/api/model/Party.java
+/home/trafik/Documentos/aprendiendo_jenkings/ejemplo-api-spring/src/main/java/com/api/model/Skill.java
