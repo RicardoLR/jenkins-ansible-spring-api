@@ -1,7 +1,7 @@
 INSERT INTO people (person_id, name, age) VALUES 
 	(1, 'Luis', 25),
 	(2, 'John', 30),
-	(3, 'Juan', 18);
+	(3, 'Juan', 18),
 	(4, 'Richi', 24);
 	
 INSERT INTO skills (skill_id, person_id, name, level) VALUES
@@ -13,7 +13,7 @@ INSERT INTO skills (skill_id, person_id, name, level) VALUES
 
 INSERT INTO parties (party_id, location, party_date) VALUES 
 	(1, 'Salsa Club', '2018-09-20'),
-	(2, 'Futbol', '2018-12-05');
+	(2, 'Futbol', '2018-12-05'),
 	(3, 'Ninguna', '2018-12-05');
 	
 INSERT INTO people_parties (person_id, party_id) VALUES
